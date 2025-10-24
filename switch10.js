@@ -23,5 +23,6 @@ switch (item) {
    console.log("Your original cost is $"+ bonus5 +" Your discount is 20%, Your total is $"+bonus6);
     break;
     default:
-   console.log("Enter a target currency");
+   console.log("Enter a plan type.");
+
 }
